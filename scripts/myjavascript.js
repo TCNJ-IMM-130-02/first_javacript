@@ -6,5 +6,5 @@ yada yada
 
 // single line comment
 
-alert("this is my first external javascript!");
+console.log("this is my first external javascript!");
 
